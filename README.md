@@ -12,11 +12,11 @@ In your component directory (either `main` or any other component in `components
 
 ```yaml
 dependencies:
-  markuspi/boost-esp: "^0.1.0"
+  markuspi/boost-esp: "^1.84.0~1"
 ```
 
 Or use the following command to add it to your project:
 
 ```bash
-idf.py add-dependency "markuspi/boost-esp^0.1.0"
+idf.py add-dependency "markuspi/boost-esp^1.84.0~1"
 ```

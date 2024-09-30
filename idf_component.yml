@@ -1,4 +1,4 @@
-version: "0.1.0"
+version: "1.84.0~1"
 description: "Boost C++ library for ESP-IDF"
 repository: "https://github.com/markuspi/boost-esp.git"
 files:
