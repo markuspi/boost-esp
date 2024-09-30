@@ -1,0 +1,11 @@
+*build*/
+.pio/
+.venv/
+
+.vscode/launch.json
+.vscode/c_cpp_properties.json
+.idea/
+sdkconfig*
+*.lock
+managed_components/
+dist/

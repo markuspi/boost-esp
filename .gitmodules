@@ -1,0 +1,6 @@
+[submodule "libs/config"]
+	path = libs/config
+	url = https://github.com/boostorg/config
+[submodule "libs/endian"]
+	path = libs/endian
+	url = https://github.com/boostorg/endian
